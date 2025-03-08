@@ -16,6 +16,7 @@ export const Calculator = () =>{
             setInput('Error')
         }
     }
+    
 
     return(
         <div>
